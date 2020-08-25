@@ -1,6 +1,6 @@
 # ImagesRepo
 
-This is my solution to the interview task about Images gathering and loacl search.
+This is my solution to the interview task about Images gathering and local search by metadata.
 
 To run it locally please:
 - clone the repo locally
